@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="507b1f53-7b09-4865-b4ea-ebcba5bda4ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../student/src/inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/inheritance/bankaccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/level1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/level1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/level1/item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/level2/Bankacount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/level2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/level2/palindromechecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/mulithreding/even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/mulithreding/mythread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/mulithreding/mythread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/mulithreding/mythreadnew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/mulithreding/mythreadsir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/mulithreding/odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/mulithreding/runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/mulithreding/runner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/mulithreding/runner3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/src/mulithreding/runnernew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Advanced/src/com/gla/inheritence/overloading/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Advanced/src/com/gla/inheritence/overloading/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Advanced/src/com/gla/inheritence/overloading/runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Advanced/src/com/gla/inheritence/overloading/runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Advanced/src/com/gla/inheritence/teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Advanced/src/com/gla/inheritence/teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student/src/assiment2/employmanegment/interfacedepartment.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3AID7nRYZUCtbDk7qU0fKEpvbxY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.runner.executor": "Run",
+    "Application.student.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "Method",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/drons/OneDrive/Attachments/Desktop/bridgelabz-traning-1Y/oops/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.runner">
+    <configuration name="runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ooaps.runner" />
+      <module name="oops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ooaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ooaps.student" />
+      <module name="oops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ooaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="oops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="oops" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="oops" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="oops" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.runner" />
+        <item itemvalue="Application.student" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="507b1f53-7b09-4865-b4ea-ebcba5bda4ce" name="Changes" comment="" />
+      <created>1772271029003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772271029003</updated>
+      <workItem from="1772271033267" duration="1159000" />
+      <workItem from="1772306993378" duration="1051000" />
+      <workItem from="1773512034408" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
